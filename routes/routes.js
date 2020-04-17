@@ -3,7 +3,7 @@ let router = express.Router()
 
 
 router.get('/', function(req,res,next){
-    res.json( {'message': 'testing with nodemon!'} )
+    res.json( {'message': 'Hello! Testing again this is MAGIC!'} )
 })
 
 
