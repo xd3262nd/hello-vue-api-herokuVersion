@@ -1,0 +1,14 @@
+{
+    "name": "hello-api",
+    "description": "Hello World API",
+    "author": "Qian",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "scripts": {
+        "start": "node ./server.js"
+    },
+    "devDependencies": {
+        "@vue/cli": "^4.3.1"
+    }
+}
